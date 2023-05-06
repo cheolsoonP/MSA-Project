@@ -1,11 +1,7 @@
 # MSA-Project
 MSA에 필요한 사항을 실제 프로젝트 도입 전 연습합니다.
-
-
-
-
-
-
+<br>
+<br>
 ### 커밋 메시지 컨벤션
 
 | 커밋 유형        | 의미                                                         |
@@ -23,7 +19,8 @@ MSA에 필요한 사항을 실제 프로젝트 도입 전 연습합니다.
 | remove           | 파일을 삭제하는 작업만 수행한 경우                           |
 | !BREAKING CHANGE | 커다란 API 변경의 경우                                       |
 | !HOTFIX          | 급하게 치명적인 버그를 고쳐야 하는 경우                      |
-
+<br>
+<br>
 
 
 ### Git issue
@@ -37,7 +34,8 @@ MSA에 필요한 사항을 실제 프로젝트 도입 전 연습합니다.
 - **`wontfix`** : 수정하지 않을 결정을 내린 Issue에 사용합니다.
 - **`duplicate`** : 중복된 Issue에 사용합니다.
 - **`question`** : 질문 관련 Issue에 사용합니다.
-
+<br>
+<br>
 
 
 ### feature 브랜치
@@ -49,3 +47,4 @@ ex)
 feat/3-user 
 
 feat/3-user_login
+<br>
